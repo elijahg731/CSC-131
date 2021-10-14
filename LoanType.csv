@@ -1,0 +1,46 @@
+LoanTypeID,LoanCategoryID,Description,LongDescription,Active,ActiveEndDate,RateLockDays,ActiveRates,LoanTypeCategoryID,SortOrder,ProductTypeID
+1,2,CHDAP,California Homebuyer's Downpayment Assistance Program (CHDAP),false,2014-07-01,60,false,,199.00,
+2,2,HomeChoice CHAP (2003-2008),HomeChoice CHAP (2003-2008),false,2014-07-01,60,false,,199.00,
+3,2,SSLP (CaHLIF Silent Second) (2002-2005),SSLP (CaHLIF Silent Second) (2002-2005),false,2014-07-01,60,false,,199.00,
+4,2,CHAP (1988 -2008),CHAP (1988 -2008),false,2014-07-01,60,false,,199.00,
+5,2,MDP (1988-1995),MDP (1988-1995),false,2014-07-01,60,false,,199.00,
+6,2,HPA (1989-1994),HPA (1989-1994),false,2014-07-01,60,false,,199.00,
+7,2,HiCAP (2001-2008),HiCAP (2001-2008),false,2014-07-01,60,false,,199.00,
+8,2,ECTP,Extra Credit Teacher Program (ECTP),false,2016-09-12,60,false,,199.00,
+9,2,Oakland ECTP (2003-2005),Oakland Extra Credit Teacher Program (ECTP) (2003-2005),false,2014-07-01,60,false,,199.00,
+10,2,HIRAP (2003-2007),HIRAP (2003-2007),false,2014-07-01,60,false,,199.00,
+11,2,Zero Interest Program (ZIP),Zero Interest Program (ZIP),true,,60,true,,198.00,1
+12,2,ZIP Extra,ZIP Extra,false,2014-11-04,60,false,,199.00,
+13,1,Fixed 30-year mortgage (1977-2009),Fixed 30-year mortgage (1977-2009),false,2014-07-01,60,false,,199.00,
+14,1,ARM 30-year mortgage (1994-1998),ARM 30-year mortgage (1994-1998),false,2014-07-01,60,false,,199.00,
+15,1,Fixed 25-year mortgage (1977-1992),Fixed 25-year mortgage (1977-1992),false,2014-07-01,60,false,,199.00,
+16,1,IOP Whole Loans (2005-2008),Interest Only PLUS Whole Loans (2005-2008),false,2014-07-01,60,false,,199.00,
+17,1,CitiBank's Cal-Combo (2005-2007),CitiBank's Cal-Combo (2005-2007),false,2014-07-01,60,false,,199.00,
+18,1,Fixed 40-year (2006-2008),Fixed 40-year (2006-2008),false,2014-07-01,60,false,,199.00,
+19,1,IOP Conforming (MBS-eligible) (2007-2008),IOP Conforming (MBS-eligible) (2007-2008),false,2014-07-01,60,false,,199.00,
+20,1,HomeChoice 30-year (2004-2008),HomeChoice 30-year (2004-2008),false,2014-07-01,60,false,,199.00,
+21,1,REO SMART (2008-2010),REO SMART (2008-2010),false,2014-07-01,60,false,,199.00,
+22,1,CSHLP (2008-2010),Community Stabilization (CSHLP) (2008-2010),false,2014-07-01,60,false,,199.00,
+23,1,ECTP Firsts (2001-2009),Extra Credit Teacher Program (ECTP) Firsts (2001-2009),false,2014-07-01,60,false,,199.00,
+24,1,Oakland ECTP Firsts (2001-2004),Oakland ECTP Firsts (2001-2004),false,2014-07-01,60,false,,199.00,
+25,1,Cal30 Conventional (2009-2011),Cal30 Conventional (2009-2011),false,2014-07-01,60,false,,199.00,
+26,1,CalHFA FHA (2010-2011),CalHFA FHA (2010-2011),false,2014-07-01,60,false,,199.00,
+27,1,CalHFA FHA,CalHFA FHA,true,,60,true,1,10.00,1
+28,1,CalPLUS FHA,CalPLUS FHA,false,2016-05-31,60,false,,199.00,
+29,1,CalHFA Conventional (with DPA),CalHFA Conventional (with DPA),true,,60,true,2,60.00,1
+30,1,CalPLUS Conventional,CalPLUS Conventional,false,2016-05-31,60,false,,199.00,
+31,1,CalHFA EEM + Grant,CalHFA EEM + Grant,false,,60,false,1,50.00,1
+32,2,MyHome,MyHome Assistance Program,true,,60,true,,151.00,1
+33,1,CalPLUS FHA with ZIP 3.5%,CalPLUS FHA with ZIP 3.5%,false,2016-10-31,60,false,,199.00,
+34,1,CalPLUS FHA with ZIP 4.5%,CalPLUS FHA with ZIP 4.5%,false,2016-10-31,60,false,,199.00,
+35,1,CalPLUS Conventional with ZIP 3%,CalPLUS Conventional with ZIP 3%,true,,60,true,2,90.00,1
+36,1,CalPLUS Conventional with ZIP 4%,CalPLUS Conventional with ZIP 4%,false,2019-02-28,60,false,2,199.00,
+37,1,CalPLUS FHA with ZIP 3%,CalPLUS FHA with ZIP 3%,true,,60,true,1,40.00,1
+38,1,CalPLUS FHA with ZIP 4%,CalPLUS FHA with ZIP 4%,false,2019-02-28,60,false,1,199.00,
+39,1,CalHFA VA,CalHFA VA,true,,60,true,3,20.00,1
+40,2,School Program,School Teacher and Employee Assistance Program,true,2020-03-02,60,false,,152.00,1
+41,1,710 Project,710 CalTrans Project,false,2014-07-01,60,false,,199.00,
+42,1,CalPLUS Conventional with ZIP 2%,CalPLUS Conventional with ZIP 2%,true,,60,true,2,80.00,1
+43,1,CalPLUS FHA with ZIP 2%,CalPLUS FHA with ZIP 2%,true,,60,true,1,30.00,1
+44,1,CalHFA Conventional No DPA,CalHFA Conventional No DPA,true,,60,true,2,70.00,1
+45,1,CalHFA USDA,CalHFA USDA,true,,60,true,4,25.00,1
